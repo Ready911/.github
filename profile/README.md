@@ -23,4 +23,4 @@ Ready911 is an advanced, user-friendly dispatching platform built specifically f
 
 ---
 
-© 2025 **Ready911, Inc.** All Rights Reserved.
+© 2025 **Ready911**. All Rights Reserved.
