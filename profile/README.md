@@ -1,4 +1,4 @@
-# **Ready911 ✨**  
+# **Ready911 ✨**
 **The Ultimate All-in-One Solution for Emergency Dispatching**
 
 ---
@@ -22,7 +22,5 @@ Ready911 is an advanced, user-friendly dispatching platform built specifically f
 - 🛠️ **Plugin API**
 
 ---
-
-**Your Mission. Our Technology.**  
 
 © 2025 **Ready911, Inc.** All Rights Reserved.
